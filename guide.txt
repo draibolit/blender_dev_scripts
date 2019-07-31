@@ -1,0 +1,4 @@
+ 1.install bpy_externall addons to blender: by zip it 
+2.install vim-run-in-blender plugin for vim 
+3. start blender by using script in bootstrap_bpy.. folder
+4. RunInBlender
